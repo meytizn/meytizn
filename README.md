@@ -6,8 +6,8 @@ frontend and backend  in designing and implementing web-based software and vario
 
 <br/>
 <br/>
-if you are intrested in my Front-end projects
+if you are intrested in my deployed Front-end projects
 <a href="https://mahdizamanian.onrender.com/"> 👉 click here </a>
 <br/>
-or intrested in my Back-end projects
-<a href="http://zamanianmehdi23blogproject.pythonanywhere.com/#"> 👉 click here </a>
+or intrested in my deployed Back-end projects
+<a href="http://zamanianmehdi23blogproject.pythonanywhere.com/#"> 👉 click here </a> . visit backend repo  <a href="http://zamanianmehdi23blogproject.pythonanywhere.com/#">📑</a>
