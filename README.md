@@ -1,4 +1,4 @@
-   # Full-Stack Web Developer <p style="color:green">you are in front-end account</p>
+   # Full-Stack Web Developer 
 
   
 I'm a Full-Stack web developer familiar with the 
