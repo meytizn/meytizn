@@ -6,7 +6,7 @@ frontend and backend  in designing and implementing web-based software and vario
 
 <br/>
 <br/>
-if you are intrested in my deployed Front-end projects
+Front-end projects
 <a href="https://mahdizamanian.onrender.com/"> 👉 click here </a>
 <br/>
 or intrested in my deployed Back-end projects
