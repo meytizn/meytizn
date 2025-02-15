@@ -9,5 +9,5 @@ frontend and backend  in designing and implementing web-based software and vario
 Front-end projects
 <a href="https://mahdizamanian.onrender.com/"> 👉 click here </a>
 <br/>
-or intrested in my deployed Back-end projects
+Back-end projects
 <a href="http://zamanianmehdi23blogproject.pythonanywhere.com/#"> 👉 click here </a> . backend repo  <a href="http://zamanianmehdi23blogproject.pythonanywhere.com/#">📑</a>
