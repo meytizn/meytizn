@@ -7,7 +7,7 @@ frontend and backend  in designing and implementing web-based software and vario
 <br/>
 <br/>
 Front-end projects
-<a href="https://mahdizamanian.onrender.com/"> 👉 click here </a>
+<a href="https://mahdizamanian.onrender.com/"> 👉 click here </a>. front-end repo  <a href="https://github.com/meytizn?tab=repositories">📑</a>
 <br/>
 Back-end projects
-<a href="http://zamanianmehdi23blogproject.pythonanywhere.com/#"> 👉 click here </a> . backend repo  <a href="https://github.com/Mehdizamanian?tab=repositories">📑</a>
+<a href="http://zamanianmehdi23blogproject.pythonanywhere.com/#"> 👉 click here </a> . back-end repo  <a href="https://github.com/Mehdizamanian?tab=repositories">📑</a>
